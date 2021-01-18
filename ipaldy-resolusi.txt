@@ -4,4 +4,4 @@ iPaldy RESOLUSI.
 -Belajar Laravel.
 -Belajar REST API.
 -Membuat portofolio web pribadi
--Membuat portofolio web TIKI
+-Kerja sebagai web programmer
