@@ -3,3 +3,5 @@ iPaldy RESOLUSI.
 -Belajar Codeigniter.
 -Belajar Laravel.
 -Belajar REST API.
+-Membuat portofolio web pribadi
+-Membuat portofolio web TIKI
